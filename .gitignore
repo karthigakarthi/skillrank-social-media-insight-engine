@@ -1,0 +1,12 @@
+# Ignore large datasets
+*.csv
+*.db
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Streamlit config
+.streamlit/
